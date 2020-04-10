@@ -6,3 +6,4 @@
 Knowledge-Understanding
 零散的一些的知识
 * 贝叶斯公式的理解
+* 极大似然估计的理解，MLE

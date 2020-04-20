@@ -1,7 +1,9 @@
 # Learning
 平时一些学习的内容
 * Datawhale-Tianchi 数据挖掘-二手车交易价格预测 20200320-0406
-* 
+* Datawhale-Pandas 20200418-0430
+* Datawhale-Spider 20200418-0427
+*
 
 Knowledge-Understanding
 零散的一些的知识

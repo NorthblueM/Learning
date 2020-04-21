@@ -10,7 +10,7 @@
 ### Task1
 * task1-html/api/request-get/js:
 
-    html等有关知识，api使用，request-get使用 拔高部分：js
+    互联网、HTTP、html、css等有关知识，api使用，request-get使用 拔高部分：js
 * 
 
 

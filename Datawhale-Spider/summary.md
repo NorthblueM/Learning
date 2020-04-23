@@ -1,6 +1,8 @@
 <!-- TOC -->
 
+- [常用命令](#常用命令)
 - [一些快捷操作](#一些快捷操作)
+- [Trick](#trick)
 - [前要](#前要)
     - [库](#库)
 - [HTML/CSS/JS等基础知识](#htmlcssjs等基础知识)
@@ -29,12 +31,21 @@
 
 <!-- /TOC -->
 
+# 常用命令
+* r.status_code ：状态码，200则requests.get()成功
+* r.encoding = 'utf-8' ：更改requests.get()后的编码
+
 # 一些快捷操作
 * 通过审查元素，使用快捷键Ctrl+shift+c快速定位网页内容在elements中的位置
 * 在chrome开发者模式中，Network，点击XHR就只会显示提交的内容(POST)
 * python的内置函数find来定位指定子串
+* chrome找cookie：F12, Network, 勾选preserve log, Doc过滤, Headers
+* chrome可以直接copy XPath：F12, Elements, 右键copy, 选择copy XPath
 
-
+# Trick
+* 乱码：先r.encode('ISO-8859-1'), 后r.decode('utf-8')
+* 'User-agent': 'Baiduspider'
+* 在线正则测试
 
 # 前要
 * 目的：定向网络数据爬取与网页解析

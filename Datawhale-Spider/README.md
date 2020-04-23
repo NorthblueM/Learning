@@ -4,6 +4,10 @@
 - Datawhale 第十二期学习活动
 - spider 20200418-0427
 
+## summary
+
+一些知识的总结
+
 ## Task
 ### Task0
 * 安装有关环境，学习git(b站)，下载有关driver（前置）
@@ -13,10 +17,10 @@
     互联网、HTTP、html、css等有关知识，api使用，request-get使用 拔高部分：js
 
 ### Task2
-* task2-bs4
-* task2-Xpath
-* task2-re：正则表达式
-
+* task2-1-bs4
+* task2-2-Xpath
+* task2-3-re：正则表达式
+* BeautifulSoup4 简单容易比较上手，但是匹配效率还是远远不如正则以及xpath的，一般不推荐使用，推荐正则的使用
 
 ## 版本说明
 * [Anaconda 3.7 version](https://www.anaconda.com/distribution/#download-section)

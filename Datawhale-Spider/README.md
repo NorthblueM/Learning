@@ -11,7 +11,11 @@
 * task1-html/api/request-get/js:
 
     互联网、HTTP、html、css等有关知识，api使用，request-get使用 拔高部分：js
-* 
+
+### Task2
+* task2-bs4
+* task2-Xpath
+* task2-re：正则表达式
 
 
 ## 版本说明

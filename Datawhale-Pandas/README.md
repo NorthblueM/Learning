@@ -8,6 +8,9 @@
 ### Task1
 * chapter1 Pandas基础;
 
+### Task2
+* chapter2 索引
+
 
 ## 版本说明
 * python: 3.7

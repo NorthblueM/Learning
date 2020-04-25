@@ -24,7 +24,7 @@
 
 ### Task3
 * task3-1-session_cookie
-* task3-2-ip_agency
+* task3-2-ip_proxy
 * task3-3-selenium自动化
 * task3-4-homework：模拟登录丁香园，并抓取论坛页面所有的人员基本信息与回复帖子内容
 

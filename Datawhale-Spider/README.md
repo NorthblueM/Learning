@@ -22,6 +22,12 @@
 * task2-3-re：正则表达式
 * BeautifulSoup4 简单容易比较上手，但是匹配效率还是远远不如正则以及xpath的，一般不推荐使用，推荐正则的使用
 
+### Task3
+* task3-1-session_cookie
+* task3-2-ip_agency
+* task3-3-selenium自动化
+* task3-4-homework：模拟登录丁香园，并抓取论坛页面所有的人员基本信息与回复帖子内容
+
 ## 版本说明
 * [Anaconda 3.7 version](https://www.anaconda.com/distribution/#download-section)
 

@@ -11,6 +11,9 @@
 ### Task2
 * chapter2 索引
 
+### Task3
+* chapter3 分组
+
 
 ## 版本说明
 * python: 3.7

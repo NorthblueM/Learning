@@ -41,6 +41,18 @@
         - [session](#session)
         - [cookies](#cookies)
     - [一个重要概念——服务端session过期](#一个重要概念服务端session过期)
+- [ip 代理](#ip-代理)
+    - [应对ip被封的几种套路](#应对ip被封的几种套路)
+    - [如何获取代理IP地址](#如何获取代理ip地址)
+    - [使用代理](#使用代理)
+    - [确认代理ip地址的有效性](#确认代理ip地址的有效性)
+    - [改进：确认网站title](#改进确认网站title)
+    - [关于http和https代理](#关于http和https代理)
+- [selenium](#selenium)
+    - [操作基本步骤](#操作基本步骤)
+    - [查找元素](#查找元素)
+    - [页面交互](#页面交互)
+    - [等待页面加载](#等待页面加载)
 
 <!-- /TOC -->
 
@@ -50,15 +62,17 @@
 
 # 一些快捷操作
 * 通过审查元素，使用快捷键Ctrl+shift+c快速定位网页内容在elements中的位置
-* 在chrome开发者模式中，Network，点击XHR就只会显示提交的内容(POST)
+* 在chrome开发者模式中，Network，点击XHR就只会显示提交的内容(POST)，主要是获取Request Headers中的User-Agent和From Data
 * python的内置函数find来定位指定子串
-* chrome找cookie：F12, Network, 勾选preserve log, Doc过滤, Headers
+* chrome找cookie：F12, Network, 勾选preserve log, Doc过滤, Headers。一般是html结尾
 * chrome可以直接copy XPath：F12, Elements, 右键copy, 选择copy XPath
 
 # Trick
-* 乱码：先r.encode('ISO-8859-1'), 后r.decode('utf-8')
+* 乱码：先r.encode('ISO-8859-1'), 后r.decode('utf-8')。或者直接r.encoding = r.apparent_encoding
 * 'User-agent': 'Baiduspider'
 * 在线正则测试
+* 在chrome上粘贴到的XPath，去掉索引，可以爬出一个列表。
+* 在chrome上粘贴到的XPath后加'/text()'就会出来。
 
 # 前要
 * 目的：定向网络数据爬取与网页解析
@@ -413,3 +427,31 @@ __【提示】__ 曾经编写过网页的人可能对CDN一词并不陌生。CDN
   当然，有没有方式能让浏览器在关闭的时候同步的关闭服务端的会话，当然是可以的，我们可以通过脚本语言 JS 来监听浏览器关闭的动作，当浏览器触发关闭动作的时候，由 JS 像服务端发起一个请求来通知服务端销毁会话。
 
   由于不同的浏览器对 JS 事件的实现机制不一致，不一定保证 JS 能监听到浏览器关闭的动作，所以现在常用的方式还是在服务端自己设置会话的过期时间
+
+---
+# ip 代理
+
+## 应对ip被封的几种套路
+
+## 如何获取代理IP地址
+
+## 使用代理
+
+## 确认代理ip地址的有效性
+
+## 改进：确认网站title
+
+## 关于http和https代理
+
+---
+# selenium
+
+## 操作基本步骤
+
+## 查找元素
+
+## 页面交互
+
+## 等待页面加载
+
+---

@@ -3,6 +3,8 @@
 ## 项目介绍
 - Datawhale 第十二期学习活动
 - spider 20200418-0427
+- 基础知识在summary中，练习代码在对应task中
+
 
 ## summary
 
@@ -26,7 +28,12 @@
 * task3-1-session_cookie
 * task3-2-ip_proxy
 * task3-3-selenium自动化
-* task3-4-homework：模拟登录丁香园，并抓取论坛页面所有的人员基本信息与回复帖子内容
+* task3-4-hwk：模拟登录丁香园，并抓取论坛页面所有的人员基本信息与回复帖子内容
+
+### Task4
+* task4-1-hwk-TencentNews：大作业，腾讯新闻爬取
+* task4-2-hwk-ZhiHu：大作业：知乎爬虫
+
 
 ## 版本说明
 * [Anaconda 3.7 version](https://www.anaconda.com/distribution/#download-section)

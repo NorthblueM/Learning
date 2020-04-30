@@ -5,20 +5,23 @@
 - Pandas 20200418-0430
 
 ## Task
-### Task1
-* chapter1 Pandas基础;
+### Task1 chapter1 Pandas基础
+* 
 
-### Task2
-* chapter2 索引
+### Task2 chapter2 索引
+* 
 
-### Task3
-* chapter3 分组
+### Task3 chapter3 分组
+* 
 
-### Task4
-* chapter4 变形
+### Task4 chapter4 变形
+* 
 
-### Task5
-* chapter5 合并
+### Task5 chapter5 合并
+* append/assign：利用Series或DataFrame添加行/列
+* combine/update：利用规则在表中填充另一个表的数据，或覆盖更新数据
+* concat：行/列两个方向拼接两个表。
+* merge/join：横向拼接（笛卡尔积方式），适用于多级索引的情况。 join更适用于many_to_one模式和多个df对象。类似数据库的连接
 
 
 ## 版本说明

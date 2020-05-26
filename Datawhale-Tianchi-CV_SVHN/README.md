@@ -19,4 +19,5 @@
 * 数据封装 Dataset：索引方式对数据样本读取，DataLoder：批量迭代读取
 
 ### Task3 字符识别模型
-* 
+* CNN基础与发展
+* PyTorch实现CNN模型，训练，预训练模型调用

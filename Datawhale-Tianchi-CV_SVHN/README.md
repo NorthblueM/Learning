@@ -17,3 +17,6 @@
 * 图像读取 Pillow和OpenCV
 * 数据扩增 torchvision.transforms
 * 数据封装 Dataset：索引方式对数据样本读取，DataLoder：批量迭代读取
+
+### Task3 字符识别模型
+* 

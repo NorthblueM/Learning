@@ -48,8 +48,12 @@
 ## Pandas(下)
 
 ### Task1 chapter6 缺失数据
-* 
-* 
+* 缺失观测及其类型：isna和notna，np.nan、None、NaT，Nullable类型与NA符号，convert_dtypes
+* 缺失数据的运算与分组
+* 填充与剔除：fillna、dropna
+* 插值（interpolation）：线性插值、高级插值方法
+
+
 
 
 

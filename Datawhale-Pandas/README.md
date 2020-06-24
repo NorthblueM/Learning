@@ -68,6 +68,6 @@
 ## 参考链接
 - 本次次学习活动参考[Datawhale开源学习资料 Pandas(上)](https://github.com/datawhalechina/team-learning/tree/master/01%20%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E7%BC%96%E7%A8%8B%E5%AE%9E%E8%B7%B5%EF%BC%88Pandas%20%E4%B8%8A%EF%BC%89)，[短链接](http://dwz.date/aKw6)
 
-- 本次次学习活动参考[Datawhale开源学习资料 Pandas(上)](https://github.com/datawhalechina/team-learning/tree/master/01%20%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E7%BC%96%E7%A8%8B%E5%AE%9E%E8%B7%B5%EF%BC%88Pandas%20%E4%B8%8B%EF%BC%89)，[短链接](http://dwz.date/aZCT)
+- 本次次学习活动参考[Datawhale开源学习资料 Pandas(下)](https://github.com/datawhalechina/team-learning/tree/master/01%20%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E7%BC%96%E7%A8%8B%E5%AE%9E%E8%B7%B5%EF%BC%88Pandas%20%E4%B8%8B%EF%BC%89)，[短链接](http://dwz.date/aZCT)
 
 - [开源仓库](https://github.com/datawhalechina/joyful-pandas)

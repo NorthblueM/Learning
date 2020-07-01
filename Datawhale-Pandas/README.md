@@ -47,15 +47,19 @@
 ---
 ## Pandas(下)
 
-### Task1 chapter6 缺失数据
+### Task1 chapter6 缺失数据（2天）
 * 缺失观测及其类型：isna和notna，np.nan、None、NaT，Nullable类型与NA符号，convert_dtypes
 * 缺失数据的运算与分组
 * 填充与剔除：fillna、dropna
 * 插值（interpolation）：线性插值、高级插值方法
 
-### Task2 chapter7 文本数据
+### Task2 chapter7 文本数据（3天）
 
-### Task3 chapter8 分类数据
+### Task3 chapter8 分类数据（1天）
+
+### Task4 chapter9 时序数据（2天）
+
+### Task5 chapter6-9_practice（1天）
 
 
 

@@ -5,6 +5,7 @@
 * Datawhale-Spider 20200418-0427
 * Datawhale-Tianchi-CV_SVHN 计算机视觉-街景字符编码识别 20200517-0602
 * Datawhale-Pandas Pandas(下) 20200620-0630
+* Datawhale-Tianchi-NLP_NewsTextClassification 20200719-0804
 
 ## nowledge-Understanding
 零散的一些的知识

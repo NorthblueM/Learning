@@ -18,3 +18,9 @@
 
 ### Task3 基于机器学习的文本分类
 * 文本表示方法：one-hot, bag of words(Count Vectors, 字词出现次数), n-gram(加入组合词), tf-idf(词频*逆文档频率)
+
+### Task4 基于深度学习的文本分类1
+* FastText：通过Embedding层将单词映射到稠密空间，然后将句子中所有的单词在Embedding空间中进行平均，进而完成分类操作。
+* 多折交叉调参
+
+### Task5 

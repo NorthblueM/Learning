@@ -23,4 +23,10 @@
 * FastText：通过Embedding层将单词映射到稠密空间，然后将句子中所有的单词在Embedding空间中进行平均，进而完成分类操作。
 * 多折交叉调参
 
-### Task5 
+### Task5 基于深度学习的文本分类2
+* 词向量word2vec：通过单词与上下文彼此预测。方便从新增语料中学习新增词的向量表达，是一种高效的在线学习算法。
+* 算法：（1）Skip-gram(SG)预测上下文，（2）Continuous Bag of Words (CBOW)预测目标单词
+* Skip-grams训练：（1）单词组合作为“words”处理，（2）对高频单词抽样，（3）Negative sampling负采样每次只更新一小部分权重，（4）Hierarchical Softmax，利用霍夫曼树替代从隐藏层到softmax层的映射。
+* TextCNN：利用不同大小的多个卷积抽取n-gram特征，然后MaxPooling每个特征图，拼接形成向量表示文本。
+* TextRNN：将句子中每个词输入双向LSTM，将两个方向最后一个位置隐藏层拼接表示文本。
+* HAN：基于层注意力机制，在单词和句子级别分别编码并基于注意力获得文本表示，最后经Softmax进行分类。word encoder是获得句子表示，可用TextCNN、TextRNN或BERT替换。

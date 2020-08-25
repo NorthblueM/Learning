@@ -54,6 +54,11 @@
 * 模型：LinearRegression、DecisionTreeRegressor、RandomForestRegressor、GradientBoostingRegressor、MLPRegressor、XGBRegressor
 * AIC模型平均、针对残差建模
 
+### Task6 学习总结 （1天）
+* 传统模型既有理论支持，结果还不错，例如周期因子时间序列规则模型
+* 机器学习模型需要大量的特征工程，如果调不优可能不如传统模型
+* 专业领域的研究模型是第一首选
+
 
 ### 其它工具
 * mvtest.py：用于独立性检验，非线性相关，https://github.com/ChuanyuXue/MVTest

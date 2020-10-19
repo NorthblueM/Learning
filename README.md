@@ -8,6 +8,7 @@
 * Datawhale-Tianchi-NLP_NewsTextClassification 20200719-0804
 * Datawhale-LeetCodeClassification 20200818-0827
 * Datawhale-Tianchi-DM_FundFlow 20200819-0825
+* Datawhale-RSFundamentals 20202019-20201031
 
 ## nowledge-Understanding
 零散的一些的知识

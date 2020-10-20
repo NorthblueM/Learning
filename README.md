@@ -9,6 +9,7 @@
 * Datawhale-LeetCodeClassification 20200818-0827
 * Datawhale-Tianchi-DM_FundFlow 20200819-0825
 * Datawhale-RSFundamentals 20202019-20201031
+* Datawhale-DeepRLFundamentals 深度强化学习基础 20201019-20201103
 
 ## nowledge-Understanding
 零散的一些的知识

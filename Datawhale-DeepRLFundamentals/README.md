@@ -7,8 +7,9 @@
 ## Task
 ### Task01：强化学习基础（2天）
 * 第一章 强化学习概述
-概括与基础 上：https://www.bilibili.com/video/BV1LE411G7Xj
-概括与基础 下：https://www.bilibili.com/video/BV1g7411Z7SJ
+
+    概括与基础 上：https://www.bilibili.com/video/BV1LE411G7Xj
+    概括与基础 下：https://www.bilibili.com/video/BV1g7411Z7SJ
 * 
 
 <!--
@@ -22,3 +23,7 @@
 
 ### Task06：DDPG 算法（2天）
 -->
+
+### 推荐书籍
+* Textbook: [Sutton and Barton](
+http://incompleteideas.net/book/the-book-2nd.html)

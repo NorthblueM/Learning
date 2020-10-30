@@ -34,8 +34,7 @@
 - basic-svd
 - 编程实现
 
-<!--
+
 ### Task04：Wide&Deep（2天）
 
 ### Task05：GBDT+LR（3天）
--->
